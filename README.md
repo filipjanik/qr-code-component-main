@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Soluton](https://www.frontendmentor.io/solutions/qr-component-3cXKKzwbkv)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/qr-code-component-main/)
+- Solution URL: [Frontend Mentor IO Soluton](https://www.frontendmentor.io/solutions/qr-code-component-ZWzoGRzOva)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik.github.io/qr-code-component-main/)
 
 ## My process
 
